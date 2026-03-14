@@ -2,7 +2,8 @@
 
 A fully functional desktop calculator built with Java Swing, featuring basic arithmetic operations (+, -, *, /), decimal support, and a clean, intuitive interface.
 
-
+## Screenshot
+![Calculator Screenshot](calculator.png)
 
 ## ✨ Features
 
@@ -21,4 +22,7 @@ A fully functional desktop calculator built with Java Swing, featuring basic ari
 
 ## 📂 Project Structure
 Java-Calculator
-|____SmartCalculator.java
+│
+├── SmartCalculator.java
+├── calculator.png
+└── README.md
